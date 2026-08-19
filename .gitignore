@@ -13,5 +13,8 @@ playwright/.auth/
 # Screenshots & Videos
 screenshots/
 
+# Docker learning notes
+/tests/31-docker notes/
+
 # Optional
 *.log
